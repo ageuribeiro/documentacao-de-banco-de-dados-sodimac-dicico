@@ -4,6 +4,7 @@
 #### As atividades descrita no documento deevm ser executadas por um profissional especializado em SQL Server
 #### Para que a implementação do banco de dados seja executada com excelência, o DBA deve se atentar aos seguintes requisitos:
 
+## DESCRIÇÃO
 ### **Requisições necessárias:**
 
 - Verificar se a equipe SAP entregou a replicação pronta do ECC Enterprise Central Component (Base de 
@@ -20,7 +21,23 @@ SOLDIMAC;
 - Replicação Diferencial (Backup Diferencial) são as partes dos dados, somente o que foi alterado (Este 
 processo é executado automaticamente de 15 em 15 minutos;
 
+## TECNOLOGIAS UTILIZADAS
+- SQL Server Management Studio 2012
+- Microsoft WORD
 
+
+## INSTALAÇÃO
+- Para ler a documentação é necessário ter algum editor de arquivo que interprete PDF ou utilizar aplicações web, como Google Drive ou Microsoft 365
+
+## COMO UTILIZAR
+- Como se trata de documentação empresarial, não deve ser utilizado por qualquer pessoa ou empresa. Apenas pessoas autorizadas podem utilizar a documentação
+
+## CONTRIBUIÇÃO
+- Não Aplicavél
+
+## LICENÇA
+- Não Aplicável
+  
 ### __Conclusão:__
 O sistema acima documentado é executado de forma automática na sua essência sendo 
 necessário a intervenção do profissional apenas no momento da importação e após a finalização da 
