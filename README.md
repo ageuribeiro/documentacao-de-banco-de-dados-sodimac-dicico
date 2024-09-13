@@ -1,4 +1,4 @@
-## DOCUMENTAÇÃO DE ATIVIDADES DO DBA PARA IMPLANTAÇÃO DE BANCO DE DADOS NA INAUGURAÇÃI DE NOVAS LOJAS
+## DOCUMENTAÇÃO DE ATIVIDADES DO DBA PARA IMPLANTAÇÃO DE BANCO DE DADOS NA INAUGURAÇÃO DE NOVAS LOJAS SODIMAC-DICICO
 
 #### Este documento integra o processo de implantação do sistema de banco de dados das novas lojas. 
 #### As atividades descrita no documento deevm ser executadas por um profissional especializado em SQL Server
